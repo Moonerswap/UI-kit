@@ -30,6 +30,8 @@ export declare type Colors = {
     navBar: string;
     sideBar: string;
     heading: string;
+    minibg: string;
+    lotterybg: string;
     primary: string;
     primaryBright: string;
     primaryDark: string;
